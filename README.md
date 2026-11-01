@@ -1,2 +1,2 @@
 # BingoHall
-Personal Vibe Coding Game Exercies
+Personal Vibe Coding Game Exercise
